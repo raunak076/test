@@ -1,5 +1,0 @@
-{{#user}
-Name: Raunak Singh
-Skills: HTML, CSS, JS, Ract.js ,java ,Python ,Sql
-Email: raunaksinghratan@student.sfit.ac.in
-{{/user}}
